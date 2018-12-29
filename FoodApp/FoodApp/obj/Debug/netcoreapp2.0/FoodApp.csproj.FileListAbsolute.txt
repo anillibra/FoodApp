@@ -1,0 +1,11 @@
+D:\rd\FoodApp1\FoodApp\FoodApp\bin\Debug\netcoreapp2.0\FoodApp.deps.json
+D:\rd\FoodApp1\FoodApp\FoodApp\bin\Debug\netcoreapp2.0\FoodApp.runtimeconfig.json
+D:\rd\FoodApp1\FoodApp\FoodApp\bin\Debug\netcoreapp2.0\FoodApp.runtimeconfig.dev.json
+D:\rd\FoodApp1\FoodApp\FoodApp\bin\Debug\netcoreapp2.0\FoodApp.dll
+D:\rd\FoodApp1\FoodApp\FoodApp\bin\Debug\netcoreapp2.0\FoodApp.pdb
+D:\rd\FoodApp1\FoodApp\FoodApp\obj\Debug\netcoreapp2.0\FoodApp.csprojAssemblyReference.cache
+D:\rd\FoodApp1\FoodApp\FoodApp\obj\Debug\netcoreapp2.0\FoodApp.csproj.CoreCompileInputs.cache
+D:\rd\FoodApp1\FoodApp\FoodApp\obj\Debug\netcoreapp2.0\FoodApp.AssemblyInfoInputs.cache
+D:\rd\FoodApp1\FoodApp\FoodApp\obj\Debug\netcoreapp2.0\FoodApp.AssemblyInfo.cs
+D:\rd\FoodApp1\FoodApp\FoodApp\obj\Debug\netcoreapp2.0\FoodApp.dll
+D:\rd\FoodApp1\FoodApp\FoodApp\obj\Debug\netcoreapp2.0\FoodApp.pdb
