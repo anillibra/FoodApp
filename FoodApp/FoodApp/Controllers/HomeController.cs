@@ -13,7 +13,7 @@ namespace FoodApp.Controllers
         public IActionResult Index()
         {
             return View();
-            // some
+            // some fdsa
         }
 
         public IActionResult About()
